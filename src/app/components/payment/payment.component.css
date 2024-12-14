@@ -14,7 +14,7 @@ body {
   background-color: #f4f7fc;
   margin: 0;
   padding: 0;
-  background-image: url("C:\\Users\\bhuva\\Downloads\\login.jpg");
+  /*background-image: url("C:\\Users\\bhuva\\Downloads\\login.jpg");*/
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -26,7 +26,7 @@ body {
 
 /* Center the payment container */
 .payment-details {
-  background-image: url("C:\\Users\\bhuva\\Pictures\\Screenshots\\login1.png");
+  /*background-image: url("C:\\Users\\bhuva\\Pictures\\Screenshots\\login1.png");*/
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
